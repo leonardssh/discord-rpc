@@ -27,7 +27,7 @@
         "prepare": "husky install"
     },
     "dependencies": {
-        "axios": "^0.27.2",
+        "axios": "^1.2.4",
         "discord-api-types": "^0.37.5",
         "ws": "^8.8.1"
     },
